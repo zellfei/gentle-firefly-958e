@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "gentle-firefly-958e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5687bf32-7a99-4070-b423-f32148069320",
+      "database_name": "small-cake-60f1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
